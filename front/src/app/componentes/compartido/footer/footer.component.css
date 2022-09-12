@@ -1,0 +1,21 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    font-family: Raleway, sans-serif;  
+    background-color: #fff;
+  }
+
+   .social {
+      width: 50%;
+      float: right;
+    @media (max-width: 600px) {
+      width: 100%;
+    }
+     
+    }
